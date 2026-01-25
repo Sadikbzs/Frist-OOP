@@ -48,15 +48,8 @@ Prerequisites
 Java Development Kit (JDK 8 or higher)
 Any Java-supported IDE (IntelliJ IDEA, Eclipse, VS Code)
 How to Run
-Clone the repository
-
- git clone https://github.com/sadik281/oop-java-practice.git
-cd oop-java-practice
-
 
 Open in your IDE
-
-
 Import the project into your preferred Java IDE
 Wait for the IDE to index the files
 Compile and Run
