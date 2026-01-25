@@ -50,7 +50,7 @@ Any Java-supported IDE (IntelliJ IDEA, Eclipse, VS Code)
 How to Run
 Clone the repository
 
- git clone https://github.com/yourusername/oop-java-practice.git
+ git clone https://github.com/sadik281/oop-java-practice.git
 cd oop-java-practice
 
 
